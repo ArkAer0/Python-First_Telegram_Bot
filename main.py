@@ -1,3 +1,3 @@
 name = 'GitHub'
-print('Hello GitHub')
+print(f'Hello GitHub')
 
